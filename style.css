@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Roboto:ital,wght@1,300&display=swap');
+
+.body{
+background-color: #f1f1f1;
+    color: #0f141e;
+    font: 16px,  'Roboto', sans-serif;
+}
+
+.container{
+    max-width: 2600px;
+    margin: auto;
+    
+}
+
+
+.right h2{
+    color: #86898f;
+}
+.bg_color{
+    background-color: #ffe5e7;
+}
+.bg_colory{
+    background-color: #fff9dc;
+}
+/* verh */
+
+
+.first {
+display: flex;
+}
+.info{
+    margin-left: 50px;
+}
+
+.info h1 {
+    font-size:  140px ;
+}
+.info h2{
+
+    font-size:  100px;
+}
+
+.avatar {
+    width: 740px;
+    height: 995px;
+  /*0  border-radius: 15px;
+ */   
+  /*  box-shadow: 7px 1px 20px 3px rgb(25 25 25 / 30%); */
+ 
+  border: 10px solid red;
+  border-top-left-radius: 20%;
+  border-bottom-right-radius: 500px;
+  border-style:dotted;
+}
+
